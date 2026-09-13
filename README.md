@@ -32,7 +32,7 @@ An end-to-end Python data analysis pipeline designed to clean, transform, and an
 
 ```text
 ├── E-Commerce-Sales-Analytics-Pandas/
-│   ├── PQ Data (1) (1).csv   # Raw e-commerce dataset
+│   ├── E-Commerce Sales.csv   # Raw e-commerce dataset
 │   ├── main.py               # Main Python processing & analysis script
 │   ├── newfile.csv           # Cleaned dataset output
 │   └── README.md             # Project documentation
